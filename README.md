@@ -1,4 +1,18 @@
-📚 Tu Aula Digital
+<div align="center">
+  <img src="./Banner.png" alt="Banner de Tu Aula Digital" width="100%">
+
+  <h1>🎓 BIENVENIDO A TU AULA DIGITAL</h1>
+
+  <p>
+    <img src="https://img.shields.io/badge/Asignatura-Ciencias_Sociales-blue" alt="Sociales">
+    <img src="https://img.shields.io/badge/Asignatura-Ciencias_Naturales-green" alt="Naturales">
+    <img src="https://img.shields.io/badge/Estado-Activo_2025-orange" alt="Estado">
+  </p>
+
+  <p><em>Repositorio central de recursos didácticos y material de apoyo.</em></p>
+</div>
+
+---📚 Tu Aula Digital
 
 ---
 
