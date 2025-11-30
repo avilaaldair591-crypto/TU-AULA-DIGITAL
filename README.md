@@ -18,7 +18,7 @@ Este espacio está diseñado para facilitar el acceso a la información y apoyar
 A continuación, se listan los recursos disponibles para descarga y visualización:
 
 ### 🔹 Historia de Colombia
-* **📄 [Hegemonia_Conservadora.pdf](./Hegemonia_Conservadora.pdf)**
+* **📄 [Hegemonia_Conservadora.pdf](./Hegemonia_Conservadora.pdf)** 
     * *Descripción:* Presentación detallada sobre el periodo de la Hegemonía Conservadora en Colombia (1886-1930).
     * *Temas clave:* La Regeneración, Constitución de 1886, separación de Panamá, bonanza cafetera y conflictos sociales.
 
