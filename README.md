@@ -30,4 +30,23 @@ Los documentos aquí alojados tienen fines estrictamente académicos y pedagógi
 > *"Quien no conoce su historia está condenado a repetirla."*
 
 ---
+
+### 🔬 Ciencias Naturales
+Colección de recursos sobre biología, física y química para comprender el entorno natural.
+
+* **1. La Célula**
+  * 📄 **[La_Celula.pdf](./La_Celula.pdf)**
+  * *Contenido:* Estructura celular, diferencia entre células animales y vegetales, y funciones de los organelos.
+
+* **2. Los Seres Vivos**
+  * 📄 **[Funciones_vitales_de_los_Seres_Vivos.pdf](./Seres_Vivos.pdf)**
+  * *Contenido:* Clasificación de los reinos de la naturaleza, funciones vitales y características de los organismos.
+
+* **3. La Energía**
+  * 📄 **[La_Energia.pdf](./La_Energia.pdf)**
+  * *Contenido:* Tipos de energía (renovable y no renovable), transformación y conservación de la energía.
+
+* **4. Estados de la Materia**
+  * 📄 **[Estados_Materia.pdf](./Los_Estados_Materia.pdf)**
+  * *Contenido:* Sólido, líquido, gaseoso y plasma. Cambios físicos y químicos de la materia.
 © 2025 Tu Aula Digital
