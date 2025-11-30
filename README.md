@@ -4,36 +4,54 @@
   <h1>🎓 BIENVENIDO A TU AULA DIGITAL</h1>
 
   <p>
-    <img src="https://img.shields.io/badge/Asignatura-Ciencias_Naturales-green" alt="Naturales">
+    <img src="https://img.shields.io/badge/Ciencias-Naturales-green" alt="Naturales">
+    <img src="https://img.shields.io/badge/Matemáticas-Geometría-red" alt="Matemáticas">
     <img src="https://img.shields.io/badge/Estado-Activo_2025-orange" alt="Estado">
   </p>
 
-  <p><em>Repositorio central de recursos didácticos para el área de Ciencias Naturales.</em></p>
+  <p><em>Repositorio central de recursos didácticos y material de apoyo.</em></p>
 </div>
 
 ---
 
 ## 📂 Contenido del Repositorio
 
-A continuación, se listan los recursos disponibles para descarga y visualización:
+Selecciona la asignatura para acceder a los materiales:
 
-### 🔬 Temas de Estudio
+### 🔬 Ciencias Naturales
 
 * **1. La Célula**
-  * 📄 **[Ver Documento](./bio_uno.pdf)**
-  * *Descripción:* Unidad fundamental de la vida. Se explican las diferencias entre célula animal y vegetal, así como las funciones de sus organelos principales.
+  * 📥 **[Descargar Documento](./bio_uno.pdf?raw=true)**
+  * *Descripción:* Estructura celular, organelos y funciones.
 
-* **2. Los Seres Vivos**
+* **2. La Energía**
+  * 📥 **[Descargar Documento](./fisica_uno.pdf?raw=true)**
+  * *Descripción:* Tipos de energía, transformación y conservación.
+
+* **3. Los Seres Vivos**
   * 📄 **[Ver Documento](./Bio_Vivos.pdf)**
-  * *Descripción:* Clasificación taxonómica de los reinos de la naturaleza y análisis de las funciones vitales (nutrición, relación y reproducción).
-
-* **3. La Energía**
-  * 📄 **[Ver Documento](./fisica_uno.pdf)**
-  * *Descripción:* Conceptos fundamentales sobre la energía, sus diferentes tipos (cinética, potencial), fuentes renovables vs. no renovables y leyes de conservación.
+  * *Descripción:* Clasificación de los reinos y funciones vitales.
 
 * **4. Estados de la Materia**
   * 📄 **[Ver Documento](./Quim_Materia.pdf)**
-  * *Descripción:* Propiedades y características de los estados sólido, líquido, gaseoso y plasma, incluyendo los cambios físicos de la materia.
+  * *Descripción:* Sólido, líquido, gaseoso y plasma.
+
+---
+
+### 📐 Matemáticas y Geometría
+Recursos prácticos para el desarrollo del pensamiento lógico-matemático.
+
+* **1. Fracciones**
+  * 📄 **[Ver Documento](./fracciones.pdf)**
+  * *Tema:* Conceptos básicos y operaciones con fraccionarios.
+
+* **2. Cuerpos Geométricos**
+  * 📄 **[Ver Documento](./cuerpos.pdf)**
+  * *Tema:* Identificación de sólidos, figuras 3D y volumen.
+
+* **3. Secuencias y Patrones**
+  * 📄 **[Ver Documento](./secuencias.pdf)**
+  * *Tema:* Ejercicios de lógica y series geométricas.
 
 ---
 <div align="center">
