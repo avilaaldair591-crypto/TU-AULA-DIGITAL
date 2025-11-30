@@ -39,7 +39,7 @@ Colección de recursos sobre biología, física y química para comprender el en
   * *Contenido:* Estructura celular, diferencia entre células animales y vegetales, y funciones de los organelos.
 
 * **2. Los Seres Vivos**
-  * 📄 **[Funciones_vitales_de_los_Seres_Vivos.pdf](./Seres_Vivos.pdf)**
+  * 📄 **[Funciones_vitales_de_los_Seres_Vivos.pdf](./Funciones_vitales_de_los_Seres_Vivos.pdf)**
   * *Contenido:* Clasificación de los reinos de la naturaleza, funciones vitales y características de los organismos.
 
 * **3. La Energía**
