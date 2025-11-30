@@ -35,7 +35,7 @@ Los documentos aquí alojados tienen fines estrictamente académicos y pedagógi
 Colección de recursos sobre biología, física y química para comprender el entorno natural.
 
 * **1. La Célula**
-  * 📄 **[La_Celula.pdf](./La_Celula.pdf)**
+  * 📄 **[La_Celula.pdf](./La_Célula.pdf)**
   * *Contenido:* Estructura celular, diferencia entre células animales y vegetales, y funciones de los organelos.
 
 * **2. Los Seres Vivos**
