@@ -43,10 +43,10 @@ Colección de recursos sobre biología, física y química para comprender el en
   * *Contenido:* Clasificación de los reinos de la naturaleza, funciones vitales y características de los organismos.
 
 * **3. La Energía**
-  * 📄 **[La_Energia.pdf](./La_Energia.pdf)**
+  * 📄 **[La_Energia.pdf](./La_Energía.pdf)**
   * *Contenido:* Tipos de energía (renovable y no renovable), transformación y conservación de la energía.
 
 * **4. Estados de la Materia**
-  * 📄 **[Estados_Materia.pdf](./Los_Estados_Materia.pdf)**
+  * 📄 **[Estados_Materia.pdf](./Estados_Materia.pdf)**
   * *Contenido:* Sólido, líquido, gaseoso y plasma. Cambios físicos y químicos de la materia.
 © 2025 Tu Aula Digital
