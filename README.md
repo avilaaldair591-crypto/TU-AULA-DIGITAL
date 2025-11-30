@@ -18,23 +18,22 @@
 A continuación, se listan los recursos disponibles para descarga y visualización:
 
 ### 🔬 Temas de Estudio
-Colección de recursos sobre biología, física y química para comprender el entorno natural.
 
 * **1. La Célula**
-  * 📄 **[La_Célula.pdf](./La_Célula.pdf)**
-  * *Contenido:* Estructura celular, diferencia entre células animales y vegetales.
+  * 📄 **[Ver Documento](./bio_uno.pdf)**
+  * *Descripción:* Unidad fundamental de la vida. Se explican las diferencias entre célula animal y vegetal, así como las funciones de sus organelos principales.
 
 * **2. Los Seres Vivos**
-  * 📄 **[Funciones_vitales_de_los_Seres_Vivos.pdf](./Funciones_vitales_de_los_Seres_Vivos.pdf)**
-  * *Contenido:* Clasificación de los reinos y funciones vitales.
+  * 📄 **[Ver Documento](./Bio_Vivos.pdf)**
+  * *Descripción:* Clasificación taxonómica de los reinos de la naturaleza y análisis de las funciones vitales (nutrición, relación y reproducción).
 
 * **3. La Energía**
-  * 📄 **[La_Energía.pdf](./La_Energía.pdf)**
-  * *Contenido:* Tipos de energía, transformación y conservación.
+  * 📄 **[Ver Documento](./fisica_uno.pdf)**
+  * *Descripción:* Conceptos fundamentales sobre la energía, sus diferentes tipos (cinética, potencial), fuentes renovables vs. no renovables y leyes de conservación.
 
 * **4. Estados de la Materia**
-  * 📄 **[Estados_Materia.pdf](./Estados_Materia.pdf)**
-  * *Contenido:* Sólido, líquido, gaseoso y plasma.
+  * 📄 **[Ver Documento](./Quim_Materia.pdf)**
+  * *Descripción:* Propiedades y características de los estados sólido, líquido, gaseoso y plasma, incluyendo los cambios físicos de la materia.
 
 ---
 <div align="center">
